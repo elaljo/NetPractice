@@ -9,3 +9,6 @@ Computer networking requires the use of physical network infrastructure -- inclu
 Additionally, networks rely on the use of standard protocols to uniformly perform discrete functions or communicate different types of data, regardless of the underlying hardware.
 
 For example, voice over IP (VoIP) can transport IP telephony traffic to any endpoint that supports the protocol. HTTP provides a common way for browsers to display webpages. The internet protocol suite, also known as TCP/IP, is a family of protocols responsible for transporting data and services over an IP-based network.
+### Why NetPractice
+NetPractice is a project made to make you understand IPV4 addressing and subnetting.
+
