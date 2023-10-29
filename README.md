@@ -32,12 +32,14 @@ A router is a network device that forwards data packets between computer network
 ### Subnetting
 Subnetting is the process to take a network and dividing it to small chunks of other networks.
 This solves the problem of unused its within a network.
+
    Example here we have 2 networks:
+   
 →First is 10.0.0.0/25
+
 →Second is 10.0.0.128/25
+
 
 ### Classless addressing
 A ip class gives us too much possible address even a class C address gives us 255 dress when we want a network with only 2 or 3 hosts, to solve this we start using smaller masks to limit the range of a specific network.
-![Uploading Screenshot 2023-09-02 at 16.12.56.png…]()
-
 
